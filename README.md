@@ -1,4 +1,4 @@
-# Install Graylog Open in 5 minutes for $Ø !
+# Install Graylog Open in 5*** minutes for $Ø !
 
 1. Find hardware or set up a VM with at least 16 GB memory. 4 or more processor 
 cores would be nice, too. Our first pilot, which ran for about a year,  was a Dell Optiplex SFF PC with an i5-6500 and 16 GB of memory.
