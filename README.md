@@ -10,3 +10,5 @@ cores would be nice, too. Our first pilot, which ran for about a year,  was a De
 4. Copy [my nxlog.conf](nxlog.conf) into `C:\Program Files\nxlog\conf` and run nxlog.exe -f to make sure there are no errors. If it's good, restart the nxlog process.
 
 5. Check Graylog to ensure your logs start appearing. They should start showing up immediately.
+
+*** Almost certainly a lie.
