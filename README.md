@@ -11,4 +11,4 @@ cores would be nice, too. Our first pilot, which ran for about a year,  was a De
 
 5. Check Graylog to ensure your logs start appearing. They should start showing up immediately.
 
-* Almost certainly a lie.
+\* Almost certainly a lie.
