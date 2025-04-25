@@ -9,8 +9,8 @@ cores would be nice, too. Our first pilot, which ran for about a year,  was a De
 
 4. [Install NXLog Community Edition](https://docs.nxlog.co/userguide/deploy/windows.html) on your Domain Controllers. Start with installing on one DC and making sure it works well.
 
-5. Copy [my nxlog.conf](nxlog.conf) into `C:\Program Files\nxlog\conf` and run nxlog.exe -f to make sure there are no errors. If it's good, restart the nxlog process.
+5. Copy [my nxlog.conf](nxlog.conf) into `C:\Program Files\nxlog\conf`. Open Powershell and run `C:\Program Files\nxlog\nxlog.exe -f` to make sure there are no errors. If it's good, restart the nxlog process.
 
 6. Check Graylog to ensure your logs start appearing. They should start showing up immediately.
 
-\* Almost certainly a lie.
+\* This is almost certainly a lie.
