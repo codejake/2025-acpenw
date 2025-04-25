@@ -5,10 +5,12 @@ cores would be nice, too. Our first pilot, which ran for about a year,  was a De
 
 2. [Install Linux](https://ubuntu.com/tutorials/install-ubuntu-server) on it.
 
-3. [Install NXLog Community Edition](https://docs.nxlog.co/userguide/deploy/windows.html) on your Domain Controllers. Start with installing on one DC and making sure it works well.
+3. [Install and configure Graylog Open](https://go2docs.graylog.org/current/downloading_and_installing_graylog/ubuntu_installation.htm) on your new Linux server.
 
-4. Copy [my nxlog.conf](nxlog.conf) into `C:\Program Files\nxlog\conf` and run nxlog.exe -f to make sure there are no errors. If it's good, restart the nxlog process.
+4. [Install NXLog Community Edition](https://docs.nxlog.co/userguide/deploy/windows.html) on your Domain Controllers. Start with installing on one DC and making sure it works well.
 
-5. Check Graylog to ensure your logs start appearing. They should start showing up immediately.
+5. Copy [my nxlog.conf](nxlog.conf) into `C:\Program Files\nxlog\conf` and run nxlog.exe -f to make sure there are no errors. If it's good, restart the nxlog process.
+
+6. Check Graylog to ensure your logs start appearing. They should start showing up immediately.
 
 \* Almost certainly a lie.
