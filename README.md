@@ -14,3 +14,10 @@ cores would be nice, too. Our first pilot, which ran for about a year,  was a De
 6. Check Graylog to ensure your logs start appearing. They should start showing up immediately.
 
 \* This is almost certainly a lie.
+
+
+## Useful Links
+
+- [https://github.com/reighnman/Graylog_Content_Pack_Active_Directory_Auditing](https://github.com/reighnman/Graylog_Content_Pack_Active_Directory_Auditing)
+- [https://graylog.org/post/critical-windows-event-ids-to-monitor/](https://graylog.org/post/critical-windows-event-ids-to-monitor/)
+- [NSA Event Forwarding Guidance](https://github.com/nsacyber/Event-Forwarding-Guidance)
