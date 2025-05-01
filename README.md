@@ -11,7 +11,7 @@ cores would be nice, too. Our first pilot, which ran for about a year,  was a De
 
 5. On your Graylog server, [add a new Graylog Input](https://go2docs.graylog.org/current/getting_in_log_data/setup_an_input.htm?tocpath=Get%20in%20Logs%7CInputs%7C_____1) for port `12201` (you can change this) for your Domain Controller logs.
 
-6. Copy [my nxlog.conf](nxlog.conf) into `C:\Program Files\nxlog\conf`. Open Powershell and run `C:\Program Files\nxlog\nxlog.exe -f` to make sure there are no errors. If it's good, restart the nxlog process.
+6. Copy [my nxlog.conf](nxlog.conf) into `C:\Program Files\nxlog\conf` on the Windows Servers you want to monitor (start with a single server, first!). Open Powershell and run `C:\Program Files\nxlog\nxlog.exe -f` to make sure there are no errors. If it's good, restart the nxlog process.
 
 7. Check Graylog to ensure your logs start appearing. They should start showing up immediately.
 
