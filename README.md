@@ -15,7 +15,7 @@ cores would be nice, too. Our first pilot, which ran for about a year,  was a De
 
 7. Check Graylog to ensure your logs start appearing. They should start showing up immediately.
 
-8. Do your sanity checks and then add additional Domain Controllers with the same config file.
+8. Once you're sure everything is working right, add additional Domain Controllers with the same config file.
 
 \* This is almost certainly a lie.
 
