@@ -19,6 +19,7 @@ cores would be nice, too. Our first pilot, which ran for about a year,  was a De
 
 \* This is almost certainly a lie.
 
+![Alt](assets/dash.jpg)
 
 ## Useful Links
 
