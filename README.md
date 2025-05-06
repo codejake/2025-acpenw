@@ -24,6 +24,7 @@ cores would be nice, too. Our first pilot, which ran for about a year,  was a De
 
 ## Useful Links
 
+- [NSA's Spotting The Adversary With Windows Event Log Monitoring](assets/nsa-windows-event.pdf)
 - [NSA Event Forwarding Guidance](https://github.com/nsacyber/Event-Forwarding-Guidance) 🏆
 - [https://github.com/reighnman/Graylog_Content_Pack_Active_Directory_Auditing](https://github.com/reighnman/Graylog_Content_Pack_Active_Directory_Auditing): I wouldn't recommend using it directly, but use it for inspiration.
 - [https://graylog.org/post/critical-windows-event-ids-to-monitor/](https://graylog.org/post/critical-windows-event-ids-to-monitor/)
