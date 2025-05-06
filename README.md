@@ -1,3 +1,5 @@
+![Alt](assets/dash.jpg)
+
 # Install Graylog Open in 5* minutes for free!
 
 1. Find hardware or set up a VM with at least 16 GB memory. 4 or more processor 
@@ -19,7 +21,6 @@ cores would be nice, too. Our first pilot, which ran for about a year,  was a De
 
 \* This is almost certainly a lie.
 
-![Alt](assets/dash.jpg)
 
 ## Useful Links
 
